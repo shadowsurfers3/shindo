@@ -88,6 +88,7 @@ do
 		clone.Size = clone.Size - UDim2.new(0, shrink, 0, shrink)
 		clone.Position = UDim2.new(0.5, 0, 0.5, 0)
 		
+		
 		clone.Parent = object
 		clone:ClearAllChildren()
 		
